@@ -5,14 +5,13 @@
     <link>https://elliot53.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 19 Oct 2023 17:41:58 +0800</lastBuildDate><atom:link href="https://elliot53.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://elliot53.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hexo</title>
-      <link>https://elliot53.github.io/post/hexo/</link>
+      <link>https://elliot53.github.io/hexo/</link>
       <pubDate>Thu, 19 Oct 2023 17:41:58 +0800</pubDate>
       
-      <guid>https://elliot53.github.io/post/hexo/</guid>
+      <guid>https://elliot53.github.io/hexo/</guid>
       <description>简介  Hexo 框架的基础知识  Hexo 是什么 Hexo 是一个流行的静态网站生成器，用于创建快速、简单、轻量级的静态网站。它是基于 Node.js 构建的开源工具，允许开发者使用 Markdown 文件来创建内容，然后将这些文件转化为静态 HTML 页面。
 以下是一些 Hexo 的主要特点和用途：
   Markdown 内容创建：Hexo 使用 Markdown 格式来编写内容，使得内容创作变得非常简单，并且有很多 Markdown 编辑器可供选择。
@@ -28,10 +27,10 @@ Hexo框架 详解 Hexo 是一个基于 Node.js 的静态网站生成框架，旨
     
     <item>
       <title>Hugo</title>
-      <link>https://elliot53.github.io/post/hugo/</link>
+      <link>https://elliot53.github.io/hugo/</link>
       <pubDate>Thu, 19 Oct 2023 17:41:58 +0800</pubDate>
       
-      <guid>https://elliot53.github.io/post/hugo/</guid>
+      <guid>https://elliot53.github.io/hugo/</guid>
       <description>简介  hugo 框架相关的理论基础知识  hugo框架 详解 Hugo是一个用于构建静态网站的开源网站生成器。它以速度和性能为重点，是一个非常受欢迎的静态网站生成器，特别适用于博客、文档和小型到中型网站的构建。下面是对Hugo框架的详细解释：
   静态网站生成器：Hugo是一个静态网站生成器，意味着它不需要动态服务器或数据库来生成网页。它将Markdown、HTML、CSS、JavaScript等源文件转换为静态HTML文件，这些文件可以轻松地托管在各种Web服务器上，因此不需要服务器端的处理。
   速度和性能：Hugo以速度和性能为特点。它被设计为非常快速的生成器，允许在几秒钟内生成大型网站。这是因为Hugo是用Go编写的，Go是一门高性能的编程语言。
