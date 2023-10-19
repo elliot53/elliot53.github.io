@@ -8,39 +8,48 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Oct 2023 17:41:58 +0800</lastBuildDate><atom:link href="https://elliot53.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>https://elliot53.github.io/post/first/</link>
+      <title>Hexo</title>
+      <link>https://elliot53.github.io/post/hexo/</link>
       <pubDate>Thu, 19 Oct 2023 17:41:58 +0800</pubDate>
       
-      <guid>https://elliot53.github.io/post/first/</guid>
-      <description>hello  this is a test  </description>
+      <guid>https://elliot53.github.io/post/hexo/</guid>
+      <description>简介  Hexo 框架的基础知识  Hexo 是什么 Hexo 是一个流行的静态网站生成器，用于创建快速、简单、轻量级的静态网站。它是基于 Node.js 构建的开源工具，允许开发者使用 Markdown 文件来创建内容，然后将这些文件转化为静态 HTML 页面。
+以下是一些 Hexo 的主要特点和用途：
+  Markdown 内容创建：Hexo 使用 Markdown 格式来编写内容，使得内容创作变得非常简单，并且有很多 Markdown 编辑器可供选择。
+  快速生成静态网站：Hexo 的主要目标是生成静态网站，这意味着网站的访问速度通常很快，因为不需要在每个页面请求时生成内容。一旦生成，你可以将生成的文件部署到任何静态文件主机或 CDN 上。
+  主题和插件支持：Hexo 提供了许多主题和插件，以帮助你自定义网站的外观和功能。你可以轻松地更改主题或编写自己的插件来扩展 Hexo 的功能。
+  命令行工具：Hexo 提供了一组命令行工具，用于创建、生成、部署和管理你的静态网站。这些命令简化了网站的日常维护工作。
+  版本控制集成：Hexo 可以轻松与版本控制系统（如 Git）集成，以帮助你管理网站内容的版本。
+  丰富的社区支持：由于 Hexo 的流行，你可以找到许多社区和资源，可以提供教程、主题、插件和支持。
+  Hexo 是一个非常适合博客、个人网站和文档站点等的工具，它使你能够创建和维护自己的静态网站，而无需依赖动态服务器或数据库。
+Hexo框架 详解 Hexo 是一个基于 Node.js 的静态网站生成框架，旨在帮助用户创建和维护快速、简单、轻量级的静态网站。以下是 Hexo 框架的详细解释：
+  Node.js 基础：Hexo 是基于 Node.</description>
     </item>
     
     <item>
-      <title>one</title>
-      <link>https://elliot53.github.io/post/sencond/</link>
-      <pubDate>Thu, 19 Oct 2023 17:41:58 +0800</pubDate>
-      
-      <guid>https://elliot53.github.io/post/sencond/</guid>
-      <description>afjalkjfdl</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://elliot53.github.io/about/</link>
-      <pubDate>Thu, 19 Oct 2023 17:41:51 +0800</pubDate>
-      
-      <guid>https://elliot53.github.io/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>Hugo</title>
       <link>https://elliot53.github.io/post/hugo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Oct 2023 17:41:58 +0800</pubDate>
       
       <guid>https://elliot53.github.io/post/hugo/</guid>
-      <description>��-�-�-�� �t�i�t�l�e�:� �&amp;quot;�H�u�g�o�{��&amp;ldquo;�� �d�a�t�e�:� �2�0�2�3�-�1�0�-�1�9�T�1�7�:�4�1�:�5�8�+�0�8�:�0�0�� �d�r�a�f�t�:� �f�a�l�s�e�� �-�-�-�� �� �� �#�#� ��{�N� �� �+� �h�u�g�o� �Fh�g�vsQ�vt���W@x�wƋ� �� �#�#� �h�u�g�o�Fh�g ������ �� �H�u�g�o�/f�NN(u�N�g�^Y�Q�z�v�_�nQ�zubhV0�[�N��^�T&#39;��:N͑�p�/f�NN^�8^�S&amp;quot;kΏ�vY�Q�zubhV�yr+R�(u�NZS�[0�ech�T\�W0R-N�WQ�z�v�g�^0Nb�/f�[H�u�g�o�Fh�g�v���~��ʑ�� �� �1�.� �*�*�Y�Q�zubhV���H�u�g�o�/f�NNY�Q�zubhV�asT@w�[N�����Rg�RhVbpenc�^egubQu�0�[\M�a�r�k�d�o�w�n�0H�T�M�L�0C�S�S�0J�a�v�a�S�c�r�i�p�t�I{�n�e�Nl�bc:NY�H�T�M�L��e�N�ُ�N�e�N�S�N{�~g0WXb�{(WT�yW�e�b�g�RhV N��VdkN����g�RhV�z�vYt0� �� �2�.� �*�*���^�T&#39;�����H�u�g�o��N��^�T&#39;��:Nyr�p0�[������:N^�8^�_��vubhV�AQ��(W�Q�y���Qub&#39;Y�WQ�z0ُ/f�V:NH�u�g�o�/f(uG�o��Q�v�G�o�/f�N��ؚ&#39;���vz����0� �� �3�.� ���US�N�Nۏ6R�e�N���H�u�g�o����g�^:N�NNUS�N�v�Nۏ6R�e�N��Vdk�[ň^�8^�{US0ON�����[ň&#39;Yϑ�OV�bYBg�vM�n��S��N}��(u�NO�v�d\O�|�~�vH�u�g�o��Nۏ6R�e�N�6qT�_�YO(u�[0� �� �4�.</description>
+      <description>简介  hugo 框架相关的理论基础知识  hugo框架 详解 Hugo是一个用于构建静态网站的开源网站生成器。它以速度和性能为重点，是一个非常受欢迎的静态网站生成器，特别适用于博客、文档和小型到中型网站的构建。下面是对Hugo框架的详细解释：
+  静态网站生成器：Hugo是一个静态网站生成器，意味着它不需要动态服务器或数据库来生成网页。它将Markdown、HTML、CSS、JavaScript等源文件转换为静态HTML文件，这些文件可以轻松地托管在各种Web服务器上，因此不需要服务器端的处理。
+  速度和性能：Hugo以速度和性能为特点。它被设计为非常快速的生成器，允许在几秒钟内生成大型网站。这是因为Hugo是用Go编写的，Go是一门高性能的编程语言。
+  单一二进制文件：Hugo被构建为一个单一的二进制文件，因此安装非常简单。你不需要安装大量依赖或复杂的配置，只需下载适用于你的操作系统的Hugo二进制文件，然后开始使用它。
+  主题系统：Hugo支持主题，你可以轻松地更改网站的外观和样式。有许多免费和付费的Hugo主题可供选择，或者你可以创建自己的主题。
+  Markdown支持：Hugo主要使用Markdown格式来编写内容，这使得创建和编辑网站内容非常容易，因为Markdown语法简单直观。
+  数据驱动：Hugo采用数据驱动的方法，允许你创建各种类型的内容，例如博客文章、页面、菜单等。你可以使用前端数据文件来定义站点内容。
+  自定义内容类型：Hugo允许你定义自己的内容类型，这意味着你可以创建适合特定需求的内容结构，如项目、事件、产品等。
+  多语言支持：Hugo支持多语言站点，允许你轻松创建多语言的网站，每个语言版本都可以有自己的内容。
+  自动部署支持：Hugo与各种部署工具（如Netlify、GitHub Pages等）集成得很好，这使得将生成的静态文件部署到互联网上变得容易。
+  活跃的社区：Hugo有一个活跃的开发社区，提供了丰富的文档、主题和插件。如果你遇到问题，可以在社区中找到帮助。
+  总的来说，Hugo是一个强大的静态网站生成器，适用于个人博客、小型企业网站、文档站点等。它的速度、性能和灵活性使其成为一个受欢迎的选择，特别是对于那些寻求简单、高效的网站构建解决方案的人。
+hugo框架 安装教程 详解 Hugo是一个强大的静态网站生成器，可以帮助你创建快速、高性能的网站。以下是Hugo框架的安装教程，详细解释如何在不同操作系统上安装Hugo。
+注意：在安装Hugo之前，请确保你已经安装了Git和一个文本编辑器（如VSCode、Sublime Text等），这些工具在创建和管理Hugo网站时非常有用。
+在 macOS 上安装 Hugo   打开终端应用。
+  使用Homebrew安装Hugo。如果你没有安装Homebrew，请首先安装它。
+/bin/bash -c &amp;#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)&amp;#34;   安装Hugo。
+brew install hugo   验证安装。</description>
     </item>
     
   </channel>
